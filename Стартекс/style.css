@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sayt
+{
+    width: 100%;
+    height: 660px;
+    background-color: #252e35;
+}
+.card1{
+    width:25% ;
+    height: 300px;
+}
+#first{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 150px 0 0 180px;
+    transform: skew(10deg);
+   
+}
+ #first:hover{
+    transform: translate(30px,-30px);
+    transition: all 0.8s;
+    box-shadow: 0 0 15px white;
+}
+.card1 a{
+    border: 1px solid white;
+    color: white;
+    text-decoration: none;
+    margin: 60px 0 px 14px;
+    padding: 15px 10px;
+    border: none;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#mini{
+    width: 30px;
+    height: 30px;
+   
+    float: left;
+    
+    display: block;
+    
+}
+.clear{
+    clear: both;
+}
+.mini-card1{
+    border: 1px solid white;
+    width: 200px;
+    height: 30px;
+    margin: 20px 0 0 210px;
+    transform: skew(10deg);
+}
+.mini-card1 p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 45px;
+    margin-top: 2px;
+
+}
+.card2{
+    width: 25%;
+    height: 300px;
+    margin: -150px 0 0 120px;
+}
+.mini-card2{
+    width: 210px;
+    height: 30px;
+    border: 1px solid white;
+    margin: 14px 0 0 360px;
+    transform: skew(10deg);
+
+}
+.mini-card2 p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 45px;
+    margin-top: 2px;
+}
+.mini-card2 img{
+    margin-top: -23px;
+}
+.mini-card3{
+    width: 210px;
+    height: 30px;
+    border: 1px solid white;
+    margin: 14px 0 0 750px;
+    transform: skew(10deg);
+
+}
+.mini-card3 p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 45px;
+    margin-top: 2px;
+}
+.mini-card3 img{
+    margin-top: -23px;
+}
+.mini-card4{
+    width: 210px;
+    height: 30px;
+    border: 1px solid white;
+    margin: 14px 0 0 1030px;
+    transform: skew(10deg);
+
+
+}
+.mini-card4 p{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 45px;
+    margin-top: 2px;
+}
+.mini-card4 img{
+    margin-top: -23px;
+}
+#second{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    margin: -150px 0 0 340px;
+    transform: skew(10deg);
+
+}
+#second:hover{
+    transform: translate(30px,-30px);
+    transition: all 0.8s;
+    box-shadow: 0 0 15px white;
+
+}
+#third{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    margin: -900px 0 0 740px;
+    transform: skew(10deg);
+
+
+}
+.card3{
+    height: 300px;
+    width: 25%;
+    margin-top: -210px;
+}
+#third:hover{
+    transform: translate(30px,-30px);
+    transition: all 0.8s;
+    box-shadow: 0 0 15px white;
+
+}
+.card4{
+    height: 300px;
+    width: 25%;
+    margin-top: -300px;
+    
+}
+#fourth{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    margin: -900px 0 0 1000px;
+    transform: skew(10deg);
+
+}
+#fourth:hover{
+    transform: translate(30px,-30px);
+    transition: all 0.8s;
+    box-shadow: 0 0 15px white;
+
+}
+
